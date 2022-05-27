@@ -32463,7 +32463,7 @@ o=A.iH(5)
 return A.nI(B.aO,A.a([new A.ij(l,new A.Z0(n),m),s,A.hw(new A.ct(B.xp,new A.dx(B.N,m,m,new A.ct(B.xl,A.a4g(A.a([j,r,q,p,A.cU(m,A.dE("assets/faces/"+A.e(n.dx)+A.e(n.dy)+".png",m),m,new A.ch(m,m,m,o,m,m,B.K),100,m,m,60)],k),10),m),m),m),m,m),A.hw(new A.ct(B.xj,new A.dx(B.jB,m,m,A.a4g(A.a([A.lJ(A.dE("assets/ui/higher.png",5),B.a2,75,new A.Z1(n),85),A.lJ(A.dE("assets/ui/equal.png",5),B.a2,75,new A.Z2(n),85),A.lJ(A.dE("assets/ui/lower.png",5),B.a2,75,new A.Z3(n),85)],k),20),m),m),m,m)],k),B.bH)}}
 A.Zd.prototype={
 $1(a){var s=t.p
-return A.Kq(A.a([A.Tg(A.a([A.u4(B.Ip,new A.Zb(a)),A.u4(B.If,new A.Zc(a))],s),B.bR,B.de,B.c4)],s),B.In,B.Iq)},
+return A.Kq(A.a([A.Tg(A.a([A.u4(B.Ip,new A.Zb(a)),A.u4(B.Ig,new A.Zc(a))],s),B.bR,B.de,B.c4)],s),B.Im,B.Iq)},
 $S:53}
 A.Zb.prototype={
 $0(){A.hT(this.a,!1).oV(0,null)},
@@ -32476,7 +32476,7 @@ $1(a){return!1},
 $S:51}
 A.Z9.prototype={
 $1(a){var s=A.a8C("Your Score:\n"+this.a.fr,B.HZ,B.ao,null)
-return new A.ij(A.Kq(A.a([A.u4(B.Io,new A.Z6(a)),A.u4(B.Ih,new A.Z7(a))],t.p),s,B.Il),new A.Z8(),null)},
+return new A.ij(A.Kq(A.a([A.u4(B.Io,new A.Z6(a)),A.u4(B.Ih,new A.Z7(a))],t.p),s,B.Ik),new A.Z8(),null)},
 $S:121}
 A.Z6.prototype={
 $0(){A.a3N(this.a,A.Nc(B.eI),new A.Z5())},
@@ -32554,13 +32554,13 @@ return A.a2G(!0,new A.a_g(),s,t.z)},
 L(a,b){var s=null,r=t.p
 return new A.mM(A.a8l(s,new A.pX(B.E4,A.nI(B.aO,A.a([A.cU(s,s,s,B.ti,s,s,s,s),A.cU(s,s,s,B.tj,s,s,s,s),new A.ct(B.xm,A.hw(A.a3e(A.a([B.DY,A.lJ(A.dE("assets/ui/play.png",4),B.a2,64,new A.a_a(b),100),B.rf,A.lJ(A.dE("assets/ui/help.png",5),B.a2,64,new A.a_b(this),100),B.rf,A.lJ(A.dE("assets/ui/about.png",6),B.a2,64,new A.a_c(this),100)],r),B.bR,B.de,B.c4),s,s),s)],r),B.bH),s),!0),!1,s)}}
 A.a_e.prototype={
-$1(a){return A.Kq(A.a([A.hw(A.u4(B.ru,new A.a_d(a)),null,null)],t.p),B.Ig,B.Im)},
+$1(a){return A.Kq(A.a([A.hw(A.u4(B.ru,new A.a_d(a)),null,null)],t.p),B.In,B.Il)},
 $S:53}
 A.a_d.prototype={
 $0(){A.hT(this.a,!1).oV(0,null)},
 $S:0}
 A.a_g.prototype={
-$1(a){return A.Kq(A.a([A.hw(A.u4(B.ru,new A.a_f(a)),null,null)],t.p),B.Ii,B.Ik)},
+$1(a){return A.Kq(A.a([A.hw(A.u4(B.ru,new A.a_f(a)),null,null)],t.p),B.If,B.Ij)},
 $S:53}
 A.a_f.prototype={
 $0(){A.hT(this.a,!1).oV(0,null)},
@@ -54757,9 +54757,9 @@ B.E1=new A.h8(3,"hide")
 B.E2=new A.h8(4,"remove")
 B.jf=new A.h8(5,"timeout")
 B.E3=new A.tR(null,null,null,null,null,null,null)
-B.Ij=new A.d1("Tap back again to exit",null,null,null,null,null)
+B.Ii=new A.d1("Tap back again to exit",null,null,null,null,null)
 B.xg=new A.az(4e6)
-B.E4=new A.l6(B.Ij,null,null,null,null,null,null,null,null,B.xg,null,null,B.ka,null)
+B.E4=new A.l6(B.Ii,null,null,null,null,null,null,null,null,B.xg,null,null,B.ka,null)
 B.E5=new A.tT(0,"criticallyDamped")
 B.E6=new A.tT(1,"underDamped")
 B.E7=new A.tT(2,"overDamped")
@@ -55039,16 +55039,16 @@ B.Hl=new A.m(!0,B.j,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.FP=new A.m(!0,B.j,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.Id=new A.d2(B.Ff,B.GV,B.H7,B.HM,B.Gu,B.FC,B.H1,B.Gx,B.GF,B.Hu,B.FM,B.HS,B.Gp,B.Hl,B.FP)
 B.Ie=new A.Dk(1,"longestLine")
-B.If=new A.d1("Yes",null,null,null,null,null)
-B.Ig=new A.d1("A card is shown and you have to guess if\nthe next card is > or < the current card.\nIf you guess correctly, you get points.\nIf you get it wrong, the game ends",null,null,B.ao,null,null)
+B.If=new A.d1("This app was made by\nMel Vincent Vallecera\nBSCpE 3B",null,null,B.ao,null,null)
+B.Ig=new A.d1("Yes",null,null,null,null,null)
 B.Ih=new A.d1("Retry",null,null,null,null,null)
-B.Ii=new A.d1("This app was made by Team10.\nMembers:\nStephen Abueva\nJoanah Mae Bulabos\nMelanie Orot\nMel Vincent Vallecera",null,null,B.ao,null,null)
 B.ru=new A.d1("Ok",null,null,null,null,null)
-B.Ik=new A.d1("About",null,null,B.ao,null,null)
+B.Ij=new A.d1("About",null,null,B.ao,null,null)
 B.rt=new A.m(!0,null,null,null,null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Il=new A.d1("Game Over!",null,B.rt,B.ao,null,null)
-B.Im=new A.d1("How to Play",null,null,B.ao,null,null)
-B.In=new A.d1("Exit the current game?",null,null,B.ao,null,null)
+B.Ik=new A.d1("Game Over!",null,B.rt,B.ao,null,null)
+B.Il=new A.d1("How to Play",null,null,B.ao,null,null)
+B.Im=new A.d1("Exit the current game?",null,null,B.ao,null,null)
+B.In=new A.d1("A card is shown and you have to guess if the next card is >, < or = to the current card. If you guess correctly, you get points.If you get it wrong, the game ends",null,null,B.ao,null,null)
 B.Io=new A.d1("Home",null,null,null,null,null)
 B.Ip=new A.d1("No",null,null,null,null,null)
 B.Iq=new A.d1("Menu",null,B.rt,B.ao,null,null)
